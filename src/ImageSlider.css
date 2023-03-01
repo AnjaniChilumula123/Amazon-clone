@@ -1,0 +1,9 @@
+.carousel__image
+{   
+    width :100%;
+    z-index: -1;
+    max-height: 400px; 
+    margin-bottom: -150px;
+    position: relative;
+     /* mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));  */
+} 
